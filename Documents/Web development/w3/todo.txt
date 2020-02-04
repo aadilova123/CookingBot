@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ToDo List</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1 id="title">ToDo List</h1>
+            <link rel="stylesheet" href="todostyle.css">
+        </div>
+        <div class="medium">
+            <h1 id="mediumtitle">ToDo List</h1>
+            <input type="text" id="input" placeholder="New Task">
+            <div class = "bttn"><input type="button" value="Add" id ="bttn" onclick="newTask()" ></div>
+        </div>
+        <div class="list">
+            <ul id="myList">
+            </ul>
+            <script src="script.js"></script>
+        </div>
+    </body>
+    </html>
