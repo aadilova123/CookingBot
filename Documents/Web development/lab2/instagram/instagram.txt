@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+ <head>
+   <meta charset ='utf-8'>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+ <body>
+ 	<div class="container">
+ 		<div class="row">
+ 			<div class="col">
+ 				<img src="phone.png" class="phone">
+ 			</div>
+ 			<div class="col">
+ 				<div class="right col">
+ 					<div class="answer">
+ 					<img src="log.png" class="instagram">
+ 						<p class="info">Зарегестрируйтесь, чтобы<br> смотреть фото и видео ваших<br>друзей</p>
+ 						<br>
+ 				    <button type="submit" class="btn-primary"><img src="facebook.png">Войти через Facebook</button>
+ 				    <br>
+ 				    <p class="or"> ИЛИ </p>
+ 				    <br>
+ 				    <form>
+ 				    		<table class="form-group">
+ 				    			<tr>
+ 				    				<td><input type="text" class="form-colder" placeholder="Mobile Number or Email"></td>
+ 				    			</tr>
+ 				    			<tr>
+ 				    				<td><input type="text" class="form-colder" placeholder="Full Name"></td>
+ 				    			</tr>
+ 				    			<tr>
+ 				    				<td><input type="text" class="form-colder" placeholder="Username"></td>
+ 				    			</tr>
+ 				    			<tr>
+ 				    				<td>
+ 				    		<input type="text" class="form-colder" placeholder="Password">
+ 				    			</td>
+ 				    			</tr>
+ 				    		</table> 			    			    	
+ 				    	<button type ="submit" class="btn-primary">Регистрация</button>
+ 				    </form>
+ 				    <p class="terms">Регистрируясь, вы принимаете наши <b>Условия,<br> Политику использования данных</b> и <b>Политику <br>в отношении файлов cookies</b>.</p>	
+ 				<form>
+ 					<div class="right col log">
+ 					<p>Есть аккаунт?<a href="#"> Вход </a></p>
+ 				</div>
+ 				</form>
+ 				<br>
+ 				<div><h3 style="color: darkblue; font-family:arial; margin-left: 40px">Установите приложение<h3></div>
+ 			</div>
+
+
+
+ 		</div>
+
+ 		<div class="thirdblock">
+                <h6 class="install">Установите приложение.</h6>
+                <div class="apllication">
+                        <a class="pril" href="https://itunes.apple.com/app/instagram/id389801252?pt=428156&ct=igweb.signupPage.badge&mt=8&vt=lo"><img class="kartinka" src="https://www.instagram.com/static/images/appstore-install-badges/badge_ios_russian-ru.png/bfba6d0fd6bd.png"></a>
+                        <a class="pril" href="https://play.google.com/store/apps/details?id=com.instagram.android&referrer=utm_source%3Dinstagramweb%26utm_campaign%3DsignupPage%26ig_mid%3DW7jZPQALAAG3h_ftS3glvIByNosl%26utm_content%3Dlo%26utm_medium%3Dbadge"><img class="kartinka" src="https://www.instagram.com/static/images/appstore-install-badges/badge_android_russian-ru.png/4c70948c09f3.png"></a>
+                        <a class="pril" href="https://www.microsoft.com/en-us/store/apps/instagram/9nblggh5l9xt"><img class="kartinka" src="https://www.instagram.com/static/images/appstore-install-badges/badge_microsoft_russian-ru.png/5015b6cf7a69.png"></a>
+                </div>
+            </div>
+            <div class="fourthblock">
+            </div>
+ 			<br>
+ 			<br>
+ 			<table>
+ 				<tr>
+ 					<td class="ph">
+ 						<img src="app.png">
+ 					</td>
+ 					<td colspan="1" class="ph2">
+ 						<img src="gog.png">
+ 					</td>
+ 				</tr>
+ 			</table>
+ 		</div>
+ 			
+ 	</div>
+ 	<p>
+ 			<h6 class="m" style="color: darkblue; font-family:arial">О НАС ПОМОЩЬ API ВАКАНСИИ КОНФИДЕНЦИАЛЬНОСТЬ УСЛОВИЯ ДИРЕКТОРИЯ ПРОФИЛИ ХЭШТЕГИ ЯЗЫК</h6>
+ 			</p>
+ 			<div class="bottom-box">
+      	
+ </body>
+</html>

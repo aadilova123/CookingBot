@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header class="header-control">To do List</header>
+    <h1 id="text">hello</h1>
+    <h3 class="time"></h3>
+    <input type="text" style="font-size: 20px;" class="todo_input">
+    <button class="btn" onclick="addElement()">Add</button>
+    <ul class="answer">
+    	<li>First item</li>
+    	
+    </ul>
+    <script src='static/js1.js'></script>
+  </body>
+</html>

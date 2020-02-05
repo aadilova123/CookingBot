@@ -1,0 +1,84 @@
+.header-control{
+	background-color:#7D479F;
+	width:100%;
+	height:60px;
+	text-align:left;
+	font-family:Brush Script MT, Brush Script Std, cursive;
+	padding-top:30px;
+	font-size:40px;
+	padding-left:50px;
+	color:#F7E9FC;
+}
+
+*{
+	padding: 0;
+	margin:0;
+	background-color: white;
+}
+
+#text {
+	text-align:left;
+	margin-top:30px;
+	margin-left:300px;
+	font-family:Brush Script MT, Brush Script Std, cursive;
+	font-size:40px;
+	color:#3A054F;
+}
+
+.todo_input{
+	text-align:left;
+	margin-top:20px;
+	margin-left:360px;
+	width:400px;
+	height:35px;
+	border-radius:05px;
+}
+
+.btn
+{
+	background-color:#24292e;
+	font-family:arial; 
+	color:white;
+	padding: 03px;
+	border: none;
+	border-radius: 05px;
+	margin-top: 0px;
+	width:50px;
+	height:35px;
+	margin-left:20px;
+	text-align:center;
+	font-size:18px;
+}
+.btn:hover
+{
+	background-color:#24292e;
+	font-family:arial; 
+	color:white;
+	padding: 03px;
+	border: none;
+	border: 2px solid;
+	border-radius: 05px;
+	margin-top: 0px;
+}
+
+.wrapper
+{
+	display:grid;
+	border:2px solid #3A054F;
+	border-radius:03px;
+	background-color:gradient;
+	padding:20px;	
+  	width:630px;
+  	height:20px;
+	margin:10px;
+  	margin-top:30px;
+  	margin-left:280px;
+  	margin-right:50px;
+	
+}
+
+.fa-pencil-alt {
+    float: right;
+    padding-top: 8px;
+}
+

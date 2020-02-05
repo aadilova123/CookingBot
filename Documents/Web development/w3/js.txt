@@ -14,9 +14,9 @@ function newTask(){
     }
     document.getElementById('input').value=""; 
     var btn=document.createElement("INPUT");
-   //var text=document.createTextNode("\u00D7");
+   
     btn.className="close";
-    btn.value="X";
+    btn.value="x";
     btn.type="button";
     li.appendChild(btn);
     li.onclick=functionsOnItem;

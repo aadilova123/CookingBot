@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+ <head>
+   <meta charset ='utf-8'>
+   <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+ <body class="welcome">
+ 	<div class="header-control">
+ 		<div class="control-align">
+ 			<div class="img-control">
+ 				<img src="facebook.png">
+ 			</div>
+ 			<div class=login>
+ 				<table>
+ 					<tr>
+ 						<td><p>Электронный адрес или номер телефона</p>						
+ 						</td>
+ 						<td><p>Пароль</p></td>
+ 					</tr>
+ 				<tr>
+ 					<td><input type="text" class="inputtxt"/></td>
+ 					<td><input type="Password" class="inputtxt"/></td>
+ 					<td><input type="button" class="btn" value="Вход">
+ 					</td>
+ 				</tr>
+ 				<tr>
+ 					<td>&nbsp;</td>
+ 					<td><p><a href="#">Забыли аккаунт?</a></p></td>
+ 				</tr>
+ 				</table>
+
+ 			</div>
+
+ 			<div class="content control">
+ 				<div class="left">
+ 					<h3>Facebook помогает нам всегда оставаться на связи<br style="margin-left: 80px;">и общаться со своими знакомыми.</h3>
+ 					<img src="com.jpg">
+ 				</div>
+ 				<div class="right">
+ 					<h1 class="txt1">Регистрация</h1>
+ 					<p class="txt">Это бесплатно и всегда будет бесплатно.</p>
+ 					<table>
+ 						<tr>
+ 							<td>
+ 								<input type="text" placeholder="Имя" class="ipt">
+ 							</td>
+ 							<td><input type="text" placeholder="Фамилия" class="ipt"></td>
+ 						</tr>
+ 						<tr>
+ 							<td colspan="2"><input type="text" class = "ipt2" placeholder="Номер мобильного телефона или эл. адреса"/></td>
+ 						</tr>
+ 						<tr>
+ 							<td colspan="2"><input type="text"  class = "ipt2" placeholder="Новый пароль"/>
+ 							</td>
+ 						</tr>
+ 	 						<tr>
+  							<td><p class="b">Дата рождения</p></td>
+ 							</tr>
+ 							<tr>
+ 								<td>
+ 							<select class="dropdown">
+ 								<option>День</option>
+ 							</select>
+ 								<select class="dropdown">
+ 								<option>Месяц</option>
+ 							</select>
+ 							<select class="dropdown">
+ 								<option>Год</option>
+ 							</select>
+ 						</td>
+ 							</tr>
+ 							<tr class="txt">
+ 								<td><a href="#">Зачем указывать дату<br>рождения?</td>
+ 							</tr> 
+ 							<tr>
+ 							<td><p class="b">Пол</p></td>
+ 							</tr>
+ 							<tr>
+ 								<td class="gen"><input type="radio" name="gender" value="Женщина">Женщина</td>
+ 								<td><input type="radio" name="gender">Мужчина</td>
+  							</tr>
+ 							<br>
+ 							<tr>
+ 								<td colspan="2" class="t">
+ 									Нажимая кнопку Регистрация, вы принимаете<a href="#"> Условия,</a><br><a href ="#">Политику использования данных</a> и <a href="#">Политику в отношении<br> файлов cookie.</a>Вы можете получать от нас SMS-<br>уведомления, отказаться от которых можно в любой момент.
+ 								</td>
+ 							</tr>
+ 							</tr>
+ 							<tr><td><input type="submit" value="Регистрация" class="reg"></td></tr>										
+ 					</table>
+ 					<div>
+ 						<h6 style="margin-top: 30px; float:left; color: gray ; text-align-last: left;"><b><a href="#">Создать страницу знаменитости</a></b>,музыкальной группы<br> или компании.</h6>
+ 					</div>
+ 				</div>
+				<div class="answer">
+							<p>
+							 © 2019
+							</p>
+							
+				</div> 	
+				<div class="bottom-box">
+        <ul>
+      		<li>
+      			<a href="#">Русский</a>
+      		</li>
+      		<li>
+      			<a href="#"> English (US) </a>
+      		</li>
+      		<li>
+      			<a href="#">Türkçe</a>
+      		</li>
+      		<li>
+      			<a href="#">Bahasa Indonesia </a>
+      		</li>
+      		<li>
+      			<a href="#">中文(简体) </a>
+      		</li>
+      		<li>
+      			<a href="#">Қазақша</a>
+      		</li>
+      		<li>
+      			<a href="#">Privacy Policy</a>
+      		</li>
+      		<li>
+      			<a href="#">Cookies</a>
+      		</li>
+      		<li>
+      			<a href="#">Ads info</a>
+      		</li>
+      		<li>
+      			<a href="#">Brand</a>
+      		</li>
+      		<li>
+      			<a href="#">Apps</a>
+      		</li>
+      		<li>
+      			<a href="#">Advertise</a>
+      		</li>
+      		<li>
+      			<a href="#">Marketing</a>
+      		</li>
+      		<li>
+      			<a href="#">Business</a>
+      		</li>
+      		<li>
+      			<a href="#">Developers</a>
+      		</li>
+      		<li>
+      			<a href="#">Directory</a>
+      		</li>
+      		<li>
+      			<a href="#">Settings</a>
+      		</li>
+      		<li>
+      			<a href="#">&copy; 2020 Facebook</a>
+      		</li>
+
+      	</ul>
+ </body>
+</html>

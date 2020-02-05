@@ -1,0 +1,13 @@
+function plus(){
+  let a = 2; // local variable
+  if(plus.inc == undefined)
+    plus.inc = 0;
+  plus.inc += 1;
+}
+
+plus()
+plus()
+plus()
+plus()
+plus()
+console.log(plus.inc);
