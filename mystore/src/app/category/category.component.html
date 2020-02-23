@@ -1,0 +1,15 @@
+<h2 class = "header">{{category.name}}</h2>
+<div class="products">
+  <div class="product-item" *ngFor="let product of products">
+
+    <h3>
+      <a class = "item" routerLink="/product-id/{{product.id}}" [title]="product.name + ' details'" >
+        {{ product.name }}
+      </a>
+    </h3>
+    <img src="{{product.image}}" width = "200px" class = "image">
+    <br>
+    <h4> {{ product.price }} <span class = "rate"> 
+      <br>rating: {{ product.rating }} </span></h4>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+.product-item {
+    text-align: left;
+    border: 1px ;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .products {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }

@@ -1,0 +1,48 @@
+/* .rating{
+  font-size:15px;
+  color:red;
+}
+
+i{
+  color: #FFC300 ;
+}
+
+.aRef{
+  text-decoration: underline;
+}
+.btn{
+  border:1px solid rgb(250, 146, 160);
+  padding:7px 15px;
+  border-radius:5px;
+  background-color:#FFC300 ;
+  color:white; 
+}
+
+#line{
+  margin-top:25px;
+  border:1px solid gradient;
+  padding:0;  
+} */
+
+.product-item {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  padding: 0px 10px 20px 10px;
+  margin-top:100px;
+}
+
+.products {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/

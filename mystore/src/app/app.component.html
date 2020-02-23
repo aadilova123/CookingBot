@@ -1,0 +1,21 @@
+ <app-top-bar></app-top-bar>
+ <h1>{{title}}</h1>
+<!--
+<h1>{{title}}</h1>
+<nav>
+  <a routerLink="/WOMAN">Woman</a>
+  <a routerLink="/MAN">Man</a>
+  <a routerLink="/KIDS">Kids</a>
+  <a routerLink="/HOME">Home</a>
+</nav>
+<router-outlet></router-outlet>
+<app-messages></app-messages> -->
+<div class="body">
+  <div class="side">
+    <app-navigation></app-navigation>
+  </div>
+  <div class="content">
+    <router-outlet>
+    </router-outlet>
+  </div>
+</div>
